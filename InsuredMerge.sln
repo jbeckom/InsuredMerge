@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "InsuredMerge", "InsuredMerge\InsuredMerge.dtproj", "{EF1CA584-07DE-4B41-B8F6-706574143E16}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ind-tfs1p:8080/tfs/internationalmedicalgroup
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InsuredMerge\\InsuredMerge.dtproj
+		SccProjectName1 = InsuredMerge
+		SccLocalPath1 = InsuredMerge
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1CA584-07DE-4B41-B8F6-706574143E16}.Development|Default.ActiveCfg = Development
+		{EF1CA584-07DE-4B41-B8F6-706574143E16}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
